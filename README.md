@@ -129,10 +129,11 @@ Thank you for taking the time to read about my journey. Feel free to explore the
  
 I’m open to feedback, collaboration, or new opportunities in the field of data analysis. Whether you're looking to discuss projects, share insights, or explore working together, feel free to reach out!
 
-📧 Email: abkcoaching@gmail.com
+📧 **Email**: abkcoaching@gmail.com
 
-📱 Phone: +2349064562159
+📱 **Phone**: +2349064562159
 
-🔗 LinkedIn: linkedin.com/in/maryoguntoyinbo
+🔗 **LinkedIn**: [Mary Oguntoyinbo](https://www.linkedin.com/in/maryoguntoyinbo)
+
 
 
