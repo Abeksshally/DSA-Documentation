@@ -18,6 +18,7 @@ Welcome to my GitHub portfolio! This repository documents my journey over the la
 3. [Challenges & Growth](#-challenges--growth)  
 4. [What’s Next?](#-whats-next)  
 5. [Thank You!](#-thank-you)
+6. [Let’s Connect!](#-let's-connect)
 
 
 
@@ -110,7 +111,7 @@ Colleagues, family & friends who supported and encouraged me
 
 …I was able to meet the project deadline and successfully complete this phase of the bootcamp. The experience has not only taught me technical skills, but also resilience, time management, and collaboration.
 
-🙌 What’s Next?
+### What’s Next?
 
 As I continue learning, I hope to improve my proficiency in data analytics tools and become more confident in tackling complex datasets. I’m eager to:
 
@@ -120,6 +121,18 @@ Collaborate with other analysts
 
 Eventually take up roles that involve data-driven decision-making
 
-📬 Thank You!
+### Thank You!
 
 Thank you for taking the time to read about my journey. Feel free to explore the case studies and projects in this repository. Feedback and collaboration opportunities are welcome!
+
+### Let’s Connect!
+ 
+I’m open to feedback, collaboration, or new opportunities in the field of data analysis. Whether you're looking to discuss projects, share insights, or explore working together, feel free to reach out!
+
+📧 Email: abkcoaching@gmail.com
+
+📱 Phone: +2349064562159
+
+🔗 LinkedIn: linkedin.com/in/maryoguntoyinbo
+
+
