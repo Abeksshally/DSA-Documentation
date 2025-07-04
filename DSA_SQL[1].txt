@@ -1,0 +1,34 @@
+create database DSA_db
+
+---------------create table -------------------
+create table Employee(
+Staffid varchar (10),
+FirstName varchar (100),
+LastName Varchar (100),
+Gender nvarchar (10),
+Date_of_Birth date,
+HireDate date
+primary key (staffid)
+);
+
+select * from Employee
+
+-------insert-------
+
+insert into Employee (staffid, firstname, LastName, gender,Date_of_Birth, hiredate)
+values ( 'AB201', 'Ayan', 'Olakun', 'female', '1992-08-22', '2018-02-09'),
+( 'AB212', 'okorie', 'mercy', 'female','1988-10-09', '2018-10-09'),
+( 'AB223', 'joshua', 'chukwuemeka', 'male','1980-10-09', '2022-02-09'),
+( 'AB234', 'sanni', 'ibrahim', 'male','1958-10-09', '2019-09-23'),
+( 'AB254', 'mercy', 'olanipekun', 'female','1982-10-09', '2020-02-09'),
+( 'AB249', 'johnson', 'mercy', 'female','1982-10-09', '2019-12-09'),
+( 'AB298', 'ayomide', 'halleluyah', 'female', '1982-10-09','2018-07-11'),
+( 'AB260', 'deborah', 'justin', 'female','1982-10-09', '1988-02-09'),
+( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
+
+INSERT INTO Employee (Staffid, FirstName, LastName, Gender, Date_of_Birth, HireDate)
+Values ('AB296', 'Yusuf','olaide','Male','1990-10-10', '2022-01-20'),
+('AB294', 'olajide','Ayodeji','Female','1976-10-10', '1990-01-20')
+
+
+SELECT * FROM Employee

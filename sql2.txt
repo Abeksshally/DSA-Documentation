@@ -1,0 +1,45 @@
+create database DSA_DB
+
+
+CREATE TABLE EMPLOYEE (
+staffid varchar(10),
+ FirstName varchar(255),
+LastName varchar(255),
+Gender varchar(10),
+Date_of_Birth date,
+HireDate datetime,
+Primary key (staffid)
+)
+-----insert-------
+insert into Employee(StaffID, FirstName, Lastname, Gender, Date_of_Birth, HireDate)
+values ( 'AB201', 'Ayan', 'Olakun', 'female', '1992-08-22', '2018-02-09'),
+( 'AB212', 'okorie', 'mercy', 'female','1988-10-09', '2018-10-09'),
+( 'AB223', 'joshua', 'chukwuemeka', 'male','1980-10-09', '2022-02-09'),
+( 'AB234', 'sanni', 'ibrahim', 'male','1958-10-09', '2019-09-23'),
+( 'AB254', 'mercy', 'olanipekun', 'female','1982-10-09', '2020-02-09'),
+( 'AB249', 'johnson', 'mercy', 'female','1982-10-09', '2019-12-09'),
+( 'AB298', 'ayomide', 'halleluyah', 'female', '1982-10-09','2018-07-11'),
+( 'AB260', 'deborah', 'justin', 'female','1982-10-09', '1988-02-09'),
+( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
+
+select * from EMPLOYEE
+
+--------drop table EMPLOYEE(drop remove the whole table)
+-----truncate table EMPLOYEE(Remove the entire value in the table)
+-----delete
+delete EMPLOYEE
+where staffid = 'AB212'
+
+select * from EMPLOYEE
+drop table EMPLOYEE
+
+-----IMPORTING CSV FILES INTO DB------
+-----EMPLOYEE.CSV
+-----SALARY.CSV
+-----PAYMENT.CSV
+select * from EMPLOYEE
+
+select * from Payment
+
+
+select * from salary
