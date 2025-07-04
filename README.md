@@ -8,17 +8,18 @@ Welcome to my GitHub portfolio! This repository documents my journey over the la
 
 ## Table of Contents
 
-1. [Overview of My Journey](#overview-of-my-journey)  
-   - [Week 1–2: Orientation and Tech Mastery](#week-1–2-orientation-and-tech-mastery)  
-   - [Week 3–5: Excel for Data Analysis](#week-3–5-excel-for-data-analysis)  
-   - [Week 6–8: SQL for Data Management](#week-6–8-sql-for-data-management)  
-   - [Week 9–11: GitHub & Portfolio Building](#week-9–11-github--portfolio-building)  
-   - [Week 12–14: Power BI Visualization](#week-12–14-power-bi-visualization)  
-2. [Final Phase: Capstone Project](#-final-phase-capstone-project)  
-3. [Challenges & Growth](#-challenges--growth)  
-4. [What’s Next?](#-whats-next)  
-5. [Thank You!](#-thank-you)
-6. [Let’s Connect!](#-let's-connect)
+[Overview of My Journey](#overview-of-my-journey)  
+[Week 1–2: Orientation and Tech Mastery](#week-1–2-orientation-and-tech-mastery)  
+[Week 3–5: Excel for Data Analysis](#week-3–5-excel-for-data-analysis)  
+[Week 6–8: SQL for Data Management](#week-6–8-sql-for-data-management)  
+[Week 9–11: GitHub & Portfolio Building](#week-9–11-github--portfolio-building)  
+[Week 12–14: Power BI Visualization](#week-12–14-power-bi-visualization)  
+[Final Phase: Capstone Project](#final-phase-capstone-project)  
+[Challenges & Growth](#challenges--growth)  
+[What’s Next](#whats-next)  
+[Thank You](#thank-you)
+[Let's Connect](#lets-connect)
+
 
 
 
