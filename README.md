@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio! This repository documents my journey over the la
 
 ### Overview of My Journey
 
-Week 1–2: Orientation and Tech Mastery
+### Week 1–2: Orientation and Tech Mastery
 
 The journey began with introductory classes on tech mastery. 
 
